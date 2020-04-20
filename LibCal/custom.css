@@ -591,19 +591,6 @@
        font-family: "gentona", Helvetica, Arial, sans-serif;
    }
    
-   #s-lg-guide-name,
-   #s-lib-bc {
-       font-family: "gentona", Helvetica, Arial, sans-serif;
-   }
-   
-   .s-lg-link-list {
-       color: #004354;
-   }
-   
-   #s-lg-public-skiplink {
-       display: none;
-   }
-   
    .pad-left-none {
        padding-left: 1em;
    }
@@ -670,4 +657,28 @@
    
    .indent {
        margin-left: 2em;
+   }
+   
+   #s-lc-public-bc .breadcrumb {
+       font-size: 1.2em;
+   }
+   
+   #s-lc-public-skiplink {
+       display: none;
+   }
+   
+   p {
+       font-size: 1.12em;
+   }
+   
+   #s-lc-event-desc {
+       padding-right: 20px;
+   }
+   
+   .pull-right {
+       margin-right: 10px;
+   }
+   
+   .s-lc-c-evt-des {
+       font-size: 1.2em;
    }
