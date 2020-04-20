@@ -6,7 +6,7 @@
    }
    
    @font-face {
-       font-family: 'gentona';
+       font-family: 'gentona, arial, helvetica, sans-serif';
        src: url(https://libapps.s3.amazonaws.com/sites/4955/include/gentona_light-webfont.woff) format('woff');
        font-weight: 2em;
        font-style: normal;
